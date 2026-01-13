@@ -25,8 +25,7 @@
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
  ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/josephkhemmoro)
+ 
 ---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josephkhemmoro&color=blueviolet&style=flat-square" alt="Profile Views" />
