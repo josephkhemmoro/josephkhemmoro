@@ -9,6 +9,11 @@
  [![LinkedIn](https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/josephkhemmoro/) [![Portfolio](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logo=&logoColor=white)](https://josephkhemmoro.com/)
 
 
+## 💼 _Work Experience:_
+
+- **Siemens** — _June 2026 – Present_
+
+
 ## 💻 _Tech Stack:_
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
